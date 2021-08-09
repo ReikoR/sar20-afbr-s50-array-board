@@ -17,7 +17,7 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=sar20-afbr-s50-array-board.OutJob
 Description=
-TargetOutputMedium=Folder Structure
+TargetOutputMedium=Gerber
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
@@ -29,7 +29,7 @@ OutputMedium1_Printer=
 OutputMedium1_PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium2=PDF
 OutputMedium2_Type=Publish
-OutputMedium3=Folder Structure
+OutputMedium3=Gerber
 OutputMedium3_Type=GeneratedFiles
 OutputType1=Gerber
 OutputName1=Gerber Files
@@ -59,13 +59,13 @@ Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=
+OutputBasePath2=Project Outputs for sar20-afbr-s50-array-board
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=
+OutputFileName2=sar20-afbr-s50-array-board.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -84,7 +84,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=gerber\
+OutputFilePath3=D:\robotics\sar20-afbr-s50-array-board\gerber\
 ReleaseManaged3=0
 OutputBasePath3=gerber\
 OutputPathMedia3=
@@ -101,7 +101,7 @@ OpenOutput3=0
 [GeneratedFilesSettings]
 RelativeOutputPath2=
 OpenOutputs2=1
-RelativeOutputPath3=gerber\
+RelativeOutputPath3=D:\robotics\sar20-afbr-s50-array-board\gerber\
 OpenOutputs3=0
 AddToProject3=0
 TimestampFolder3=0
